@@ -34,7 +34,7 @@ Once the avored/framework has been installed after that we will make sure we set
 
 ##### Frontend APP Setup
 
-    git clone https://github.com/avored/laravel-ecommerce avored-frontend
+    git clone https://github.com/avored/laravel_project avored-frontend
     cd avored-frontend
     npm install
     npm run serve
@@ -47,7 +47,7 @@ Execute the below command:
     git clone https://github.com/avored/docker-dev.git
     cd docker-dev
 
-    git clone https://github.com/avored/laravel-ecommerce ./src/frontend
+    git clone https://github.com/avored/laravel_project ./src/frontend
     docker-compose up -d
     docker-compose run --rm composer create-project laravel/laravel:8.6 ./
     docker-compose run --rm composer require avored/framework
