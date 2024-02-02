@@ -1,9 +1,3 @@
-# AvoRed an laravel headless e commerce 
-
-A  headless e commerce GraphQL API which uses Laravel as a backend.
-
-## Installation 
-
 ##### Backend APP setup 
 
 First thing first we will install laravel backend api service. First thing first we will install the laravel app. 
